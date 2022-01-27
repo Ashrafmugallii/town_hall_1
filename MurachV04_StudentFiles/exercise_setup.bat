@@ -1,0 +1,1 @@
+xcopy "exercises\*" "C:\IS117Download\*" /E
